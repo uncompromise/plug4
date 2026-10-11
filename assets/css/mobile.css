@@ -1,0 +1,9 @@
+@media (max-width: 767px){
+  .x-section .x-container,.x-section .x-column{padding-left:0!important;padding-right:0!important}
+  .x-section .x-text.x-content{padding-left:20px!important;padding-right:20px!important}
+  .x-section .x-text h1{font-size:34px!important;line-height:1.1}
+  .x-section .x-text h2{font-size:24px!important;line-height:1.15}
+  .x-section .x-text h4{font-size:15px!important;line-height:1.35}
+  .x-section .x-text p{font-size:15px}
+  h1,h2,h3,h4{overflow-wrap:break-word;hyphens:auto}
+}
